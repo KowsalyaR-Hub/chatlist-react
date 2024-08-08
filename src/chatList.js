@@ -29,7 +29,7 @@ const chatData = [
   },
   {
     name: 'Caroline Nexon',
-    message: 'We need to start new reseatch center.',
+    message: 'We need to start new research center.',
     time: '9:26',
     starred: true,
   },
